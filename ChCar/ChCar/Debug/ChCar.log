@@ -1,0 +1,286 @@
+﻿  LabCar.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(70): error C2065: 'HDROP': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(75): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(75): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(81): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(81): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(81): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(82): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(82): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(83): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(83): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(83): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(85): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(85): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(85): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(87): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(87): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(87): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(95): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(95): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(95): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(97): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(97): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(97): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(103): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(103): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(103): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(105): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(105): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(105): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(106): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(106): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(106): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(112): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(112): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(112): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(113): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(113): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(113): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(114): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(114): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(114): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(120): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(120): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(120): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(121): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(121): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(121): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(127): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(127): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(127): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(128): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(128): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(128): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1504): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1504): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1504): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1525): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1525): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1525): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1538): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1538): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1538): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1543): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1543): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1543): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1545): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1545): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1545): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1574): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1574): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1574): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1580): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1580): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1580): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1593): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1593): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1593): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1594): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1594): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1594): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1684): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1684): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1684): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1700): error C3646: 'PortNumber': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1700): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1701): error C3646: 'PrefixLength': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1701): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1725): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1725): error C2146: syntax error: missing ';' before identifier 'SHGetDriveMedia'
+c:\users\tal\desktop\chcar\chcar\labcar.h(13): error C2065: 'string': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.h(13): error C2146: syntax error: missing ')' before identifier 'url'
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C2146: syntax error: missing ';' before identifier 'url'
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C2440: 'initializing': cannot convert from 'const char [21]' to 'int'
+  c:\users\tal\desktop\chcar\chcar\labcar.h(14): note: There is no context in which this conversion is possible
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(4): error C2872: 'string': ambiguous symbol
+  c:\users\tal\desktop\chcar\chcar\labcar.h(14): note: could be 'const int string'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\xstring(4273): note: or       'std::string'
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(4): error C2146: syntax error: missing ')' before identifier 'url'
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(4): error C2143: syntax error: missing ';' before '{'
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(4): error C2447: '{': missing function header (old-style formal list?)
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(14): error C2872: 'string': ambiguous symbol
+  c:\users\tal\desktop\chcar\chcar\labcar.h(14): note: could be 'const int string'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\xstring(4273): note: or       'std::string'
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(14): error C2146: syntax error: missing ';' before identifier 'urlCar'
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(14): error C2065: 'urlCar': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(17): error C2065: 'urlCar': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(20): error C2065: 'urlCar': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(23): error C2065: 'urlCar': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(26): error C2065: 'urlCar': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(28): error C2065: 'urlCar': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.cpp(28): error C3861: 'openURL': identifier not found
+  PacketClient.cpp
+c:\users\tal\desktop\chcar\chcar\labcar.h(13): error C2065: 'string': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.h(13): error C2146: syntax error: missing ')' before identifier 'url'
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C2146: syntax error: missing ';' before identifier 'url'
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C2440: 'initializing': cannot convert from 'const char [21]' to 'int'
+  c:\users\tal\desktop\chcar\chcar\labcar.h(14): note: There is no context in which this conversion is possible
+c:\users\tal\desktop\chcar\chcar\packetclient.cpp(421): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\users\tal\desktop\chcar\chcar\packetclient.cpp(435): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\users\tal\desktop\chcar\chcar\packetclient.cpp(490): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+  Runner.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(70): error C2065: 'HDROP': undeclared identifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(70): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(75): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(75): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(75): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(81): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(81): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(81): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(82): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(82): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(83): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(83): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(83): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(85): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(85): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(85): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(87): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(87): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(87): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(95): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(95): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(95): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(97): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(97): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(97): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(103): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(103): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(103): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(105): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(105): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(105): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(106): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(106): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(106): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(112): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(112): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(112): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(113): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(113): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(113): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(114): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(114): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(114): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(120): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(120): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(120): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(121): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(121): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(121): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(127): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(127): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(127): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(128): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(128): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(128): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1504): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1504): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1504): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1525): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1525): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1525): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1538): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1538): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1538): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1543): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1543): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1543): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1545): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1545): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1545): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1574): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1574): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1574): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1580): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1580): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1580): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1593): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1593): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1593): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1594): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1594): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1594): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1684): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1684): error C2086: 'int EXTERN_C': redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(73): note: see declaration of 'EXTERN_C'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1684): error C2146: syntax error: missing ';' before identifier 'DECLSPEC_IMPORT'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1700): error C3646: 'PortNumber': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1700): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1701): error C3646: 'PrefixLength': unknown override specifier
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1701): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1725): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\shellapi.h(1725): error C2146: syntax error: missing ';' before identifier 'SHGetDriveMedia'
+c:\users\tal\desktop\chcar\chcar\labcar.h(13): error C2065: 'string': undeclared identifier
+c:\users\tal\desktop\chcar\chcar\labcar.h(13): error C2146: syntax error: missing ')' before identifier 'url'
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C2146: syntax error: missing ';' before identifier 'url'
+c:\users\tal\desktop\chcar\chcar\labcar.h(14): error C2440: 'initializing': cannot convert from 'const char [21]' to 'int'
+  c:\users\tal\desktop\chcar\chcar\labcar.h(14): note: There is no context in which this conversion is possible
+  Generating Code...
